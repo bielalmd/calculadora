@@ -6,4 +6,5 @@
 - Podendo fazer calculos com + - * /.
 - Incluindo tema claro e escuro.
 
-![CALCULADORA](/preview.png)
+
+![calc ui](/preview.png)
